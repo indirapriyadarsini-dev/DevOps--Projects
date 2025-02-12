@@ -1,29 +1,7 @@
-# Real-World DevOps/Cloud Projects For Learning by ProDevOpsGuy Tech Community ♐
 
-![DevOps-Projects](https://imgur.com/5czbYqE.png)
 
-## DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 
-[![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
-[forks-url]: https://github.com/NotHarshhaa/DevOps-Projects/network/members
-[stars-shield]: https://img.shields.io/github/stars/NotHarshhaa/DevOps-Projects.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
-[stars-url]: https://github.com/NotHarshhaa/DevOps-Projects/stargazers
-
-_*Welcome to the ultimate resource for **learning DevOps through hands-on projects!** This repository is designed to cater to aspiring **DevOps engineers** of all skill levels, from beginners taking their first steps in the field to advanced users looking to deepen their knowledge and expertise.*_
-
-## Repository Contents for DevOps Projects from Beginner to Advanced Levels
-
-> [!IMPORTANT]
->
-> _This repository contains a comprehensive collection of DevOps projects, each meticulously crafted to provide a hands-on learning experience. The projects are categorized into different skill levels to ensure that everyone, regardless of their current expertise, can find a suitable starting point and progressively enhance their skills._
->
-> - **Beginner Projects:** Simple, foundational projects that introduce basic DevOps concepts and tools.
-> - **Intermediate Projects:** More complex projects that require a good understanding of DevOps fundamentals.
-> - **Advanced Projects:** Challenging projects designed to push your limits and deepen your understanding of sophisticated DevOps practices.
 
 ## Integration of DevOps Technology with Other Technologies
 
@@ -76,16 +54,8 @@ _*Welcome to the ultimate resource for **learning DevOps through hands-on projec
 
 ## Join the Community
 
-> [!IMPORTANT]
-> We encourage you to be an active part of our community:
->
-> - **Join Our Telegram Community:** Connect with fellow DevOps enthusiasts, ask questions, and share your progress in our [Telegram group](https://t.me/prodevopsguy).
-> - **Follow Me on GitHub:** Stay updated with new projects and content by [following me on GitHub](https://github.com/NotHarshhaa).
 
-## Hit the Star! ⭐
-
-**If you find this repository helpful and plan to use it for learning, please give it a star. Your support is appreciated!**
 
 ### Author
 
-![Author Image](https://imgur.com/f4rBnpK.gif)
+
