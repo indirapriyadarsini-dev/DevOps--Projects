@@ -1,8 +1,5 @@
 
 
-
-
-
 ## Integration of DevOps Technology with Other Technologies
 
 > [!NOTE]
